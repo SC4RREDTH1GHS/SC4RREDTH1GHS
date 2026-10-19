@@ -10,7 +10,7 @@
 
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=SC4RREDTH1GHS&base=0&label=pillbottles&color=401010&style=flat" alt="meowww why isn't this working euuu" />
+    <img src="https://komarev.com/ghpvc/?username=C1garettesBurns&base=0&label=pillbottles&color=401010&style=flat" alt="meowww why isn't this working euuu" />
 </p>
 
 <p align="center"
